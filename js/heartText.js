@@ -11,7 +11,7 @@ export class HeartText {
 
         // Configuration options
         this.config = {
-            text: 'For the boy I\'m trying to make smile again',
+            text: 'For the boy I\'m trying to\n make smile again',
             size: 20,
             height: 2,
             curveSegments: 12,
